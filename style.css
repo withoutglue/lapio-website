@@ -1,1 +1,7 @@
-p { background-color: red; }
+* { color: red; }
+
+li { color: violet; }
+
+.tummanpunainen { color: brown; }
+
+#sininen { color: blue; }
