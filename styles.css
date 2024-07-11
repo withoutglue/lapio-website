@@ -1,0 +1,26 @@
+
+
+.first-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  display: inline-block;
+}
+
+.second-box-container {
+  position: relative;
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  display: inline-block;
+  left: 20px;
+}
+
+.third-box-container {
+  position: relative;
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  display: inline-block;
+  left: 50px;
+}
