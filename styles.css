@@ -1,26 +1,53 @@
 
 
 .first-box-container {
-  width: 200px;
-  height: 100px;
+  width: 120px;
+  height: 80px;
+  padding: 20px;
   background-color: red;
+  color: blue;
   display: inline-block;
+  border-style: solid;
+  border-width: 5px;
+  border-color: green;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-family: "Arial";
 }
 
 .second-box-container {
   position: relative;
-  width: 200px;
-  height: 100px;
+  width: 120px;
+  height: 80px;
+  padding: 20px;
   background-color: yellow;
+  color: blue;
   display: inline-block;
   left: 20px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: red;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-family: "Arial";
 }
 
 .third-box-container {
   position: relative;
-  width: 200px;
-  height: 100px;
+  width: 120px;
+  height: 80px;
+  padding: 20px;
   background-color: green;
+  color: blue;
   display: inline-block;
   left: 50px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: yellow;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-family: "Arial";
 }
